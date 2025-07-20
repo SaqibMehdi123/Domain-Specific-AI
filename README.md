@@ -15,12 +15,6 @@ DomainBot is a sleek and intelligent Streamlit-based chatbot that allows you to 
 
 ---
 
-## 📸 Demo Preview
-
-![demo](screenshots/demo_ui.png) <!-- optional if you add a screenshot -->
-
----
-
 ## 🧠 Domains & Behavior
 
 | Domain | Description | Sample Questions |
@@ -91,6 +85,7 @@ ollama pull phi3:3.8b
 ```bash
 streamlit run domain_chatbot.py
 ```
+---
 
 ## 📁 File Structure
 ```bash
@@ -100,7 +95,7 @@ streamlit run domain_chatbot.py
  ┣ requirements.txt         # Python dependencies
  ┗ README.md                # You're reading it
 ```
-
+---
 ## 🧪 Example Prompts
 ### Space (Low Temp)
 What causes lunar eclipses?
@@ -108,7 +103,7 @@ What causes lunar eclipses?
 Compare Node.js and Python for backend systems.
 ### Medical (High Temp)
 Describe a futuristic surgery using nanobots.
-
+---
 ## ✍️ Author
 Built by [Saqib Mehdi](https://github.com/SaqibMehdi123)
 For learning, productivity, and domain-specific tasks with local LLMs.
