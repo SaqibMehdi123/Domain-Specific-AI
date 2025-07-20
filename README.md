@@ -103,7 +103,9 @@ What causes lunar eclipses?
 Compare Node.js and Python for backend systems.
 ### Medical (High Temp)
 Describe a futuristic surgery using nanobots.
+
 ---
+
 ## ✍️ Author
 Built by [Saqib Mehdi](https://github.com/SaqibMehdi123)
 For learning, productivity, and domain-specific tasks with local LLMs.
